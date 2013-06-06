@@ -1,0 +1,12 @@
+/*
+Theme Name:     WP MapBox
+Theme URI:      http://glio.co.za
+Description:    Mapbox is a demo child theme for the Twenty Twelve theme showing the use of gmapsjs with metabox.
+Author:         Glio Digital Innovations
+Author URI:     http://glio.co.za
+Template:       twentytwelve                             
+Version:        0.1.0
+*/
+
+/*IMPORT STYLES*/
+@import url("../twentytwelve/style.css");
